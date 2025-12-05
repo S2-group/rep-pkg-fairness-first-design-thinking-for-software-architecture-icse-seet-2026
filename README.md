@@ -14,7 +14,8 @@ This is the root directory of the repository. The directory is structured as fol
   - [perspective-template.pdf](./edu-guide/perspective-template.pdf): Template for documenting architecture perspective for the assignment.  
   - [solution-template.pdf](./edu-guide/solution-template.pptx): Template for assignment solution.  
   - [grading-rubric.pdf](./edu-guide/grading-rubric.pdf): Grading rubric for the assignment.  
-  - [assignment-guide.md](./edu-guide/assignment-guide.md): Assignment description and reference material.  
+  - [assignment-guide.md](./edu-guide/assignment-guide.md): Assignment description and reference material.
+  - [course-objective.md](./edu-guide/course-objective.md): Details of the course objective
 
 [raw](./raw/): Contains the anonymized assignments from students.  
 
